@@ -1,5 +1,3 @@
-# angular-firebase
-Angular &amp; Firebase App. 
+# FitnessApp
 
-
-Application that uses Firebase database, authentication and file storage.
+This project was made using Angular + Firebase authentication
